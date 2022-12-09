@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**lter-zak/lter-zak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://profile.intra.42.fr/">
+    <img src="https://badge42.vercel.app/api/v2/clbgixf7n00300fl34py4zl0k/stats?cursusId=21&coalitionId=264">
+  </a> 
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/lter-zak">
+    <img src="https://github-readme-stats.vercel.app/api?username=lter-zak&count_private=true&show_icons=true&theme=chartreuse-dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lter-zak&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark">
+  </a>
+</p>
